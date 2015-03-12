@@ -8,3 +8,4 @@ http://everything-ruby.blogspot.in/2011/04/installing-windows-server-2008-ee-wit
 http://www.rubydoc.info/gems/devise_ldap_authenticatable/0.4.6/frames
 http://www.tutorialspoint.com/ruby/ruby_ldap.htm   
 http://fairwaytech.com/2013/10/a-beginners-guide-to-querying-ldap-with-ruby-also-spaceballs/
+http://net-ldap.rubyforge.org/
