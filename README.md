@@ -24,6 +24,12 @@ http://stackoverflow.com/questions/5544229/making-a-chat-room-in-rails-hosted-on
 http://railscasts.com/episodes/260-messaging-with-faye?view=asciicast
 http://sitepoint-minichat.herokuapp.com/
 http://runnable.com/Up5_Pc3lNms8AAIq/a-chat-example-using-ruby-on-rails-for-polling
+http://railscasts.com/episodes/316-private-pub?view=asciicast
+
+http://stackoverflow.com/questions/22756961/what-to-use-for-real-time-chat-application
+https://github.com/ciserfan/cis_rails_chat
+https://github.com/themgt/ws42-chat  //check
+
 
 popular ruby gems
 -------------
