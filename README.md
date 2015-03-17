@@ -15,3 +15,10 @@ http://net-ldap.rubyforge.org/Net/LDAP.html  -- example   net-ldap gem
 http://stackoverflow.com/questions/1690138/what-gems-should-i-use-to-have-a-ruby-app-talk-to-an-ldap-server?rq=1
 http://stackoverflow.com/questions/15814857/binding-to-ldap-service
 https://activeldap.github.io/activeldap/en/file.tutorial.html //good
+
+
+chat 
+-----------
+https://github.com/tarnfeld/PusherChat-Rails
+http://stackoverflow.com/questions/5544229/making-a-chat-room-in-rails-hosted-on-heroku
+http://railscasts.com/episodes/260-messaging-with-faye?view=asciicast
