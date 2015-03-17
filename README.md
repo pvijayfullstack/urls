@@ -23,11 +23,12 @@ https://github.com/tarnfeld/PusherChat-Rails
 http://stackoverflow.com/questions/5544229/making-a-chat-room-in-rails-hosted-on-heroku
 http://railscasts.com/episodes/260-messaging-with-faye?view=asciicast
 http://sitepoint-minichat.herokuapp.com/
-
+http://runnable.com/Up5_Pc3lNms8AAIq/a-chat-example-using-ruby-on-rails-for-polling
 
 popular ruby gems
 -------------
 http://www.hotscripts.com/category/scripts/ruby-on-rails/scripts-programs/
+
 
 
 
