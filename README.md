@@ -30,7 +30,9 @@ popular ruby gems
 http://www.hotscripts.com/category/scripts/ruby-on-rails/scripts-programs/
 
 
-
+google contacts
+-----------
+http://stackoverflow.com/questions/6311132/issues-in-fetching-address-book-to-fetch-gmail-yahoo-hotmail-twitter-and-face
 
 
 
