@@ -25,6 +25,10 @@ http://railscasts.com/episodes/260-messaging-with-faye?view=asciicast
 http://sitepoint-minichat.herokuapp.com/
 
 
+popular ruby gems
+-------------
+http://www.hotscripts.com/category/scripts/ruby-on-rails/scripts-programs/
+
 
 
 
